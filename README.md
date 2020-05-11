@@ -1,1 +1,1 @@
-# Python Django Prjects
+# Python Django Projects
