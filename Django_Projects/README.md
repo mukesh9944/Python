@@ -37,6 +37,12 @@
 - Create a superuser to login to admin
 > python manage.py createsuperuser
 
-    
+## Deployment
+
+- https://help.pythonanywhere.com/pages/DeployExistingDjangoProject/
+- https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create-deploy-python-django.html
+- https://devcenter.heroku.com/articles/deploying-python
+- https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps
+
 
 
