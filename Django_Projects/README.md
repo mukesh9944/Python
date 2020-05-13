@@ -26,7 +26,9 @@
 
 - Migrate the app
 > python manage.py migrate
+
 > python manage.py makemigrations <appName>
+
 > python manage.py migrate
 
 - Start a server
