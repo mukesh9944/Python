@@ -7,7 +7,7 @@
 <div class="container">
   <form method="POST">
     {% csrf_token %}
-    <input type="submit" name="" class="btn btn-warning" value="Delete">
+    <input type="submit" name="" class="btn btn-danger" value="Delete">
     <a class="btn btn-warning" href="{% url 'basic_app:detail' pk=school.pk%}">Cancel</a>
   </form>
 
