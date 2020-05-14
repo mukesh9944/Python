@@ -21,6 +21,8 @@
 > pip install bootstrap4
 - Django-braces
 > pip install django-braces
+- Debug toolbar
+> pip install django-debug-toolbar
 
             
         
