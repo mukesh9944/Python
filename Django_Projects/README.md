@@ -44,5 +44,10 @@
 - https://devcenter.heroku.com/articles/deploying-python
 - https://www.digitalocean.com/community/tutorials/how-to-deploy-a-local-django-app-to-a-vps
 
+- https://getbootstrap.com/
+- https://github.com/yabwe/medium-editor
+- https://codepen.io/
+- https://fonts.google.com/
+
 
 
