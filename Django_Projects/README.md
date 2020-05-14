@@ -13,6 +13,15 @@
 > conda install django[argon2]
 - Pillow
 > conda install pillow
+- Misaka
+> pip install misaka
+- Upgrade setuptools
+> pip install --updgrade setuptools
+- Bootstrap4
+> pip install bootstrap4
+- Django-braces
+> pip install django-braces
+
             
         
 
